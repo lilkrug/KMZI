@@ -1,0 +1,57 @@
+D:\job\bgtu\stego\sword\sword\bin\Debug\sword.exe
+D:\job\bgtu\stego\sword\sword\bin\Debug\sword.pdb
+D:\job\bgtu\stego\sword\sword\obj\Debug\ResolveAssemblyReference.cache
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.Properties.Resources.resources
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.csproj.GenerateResource.Cache
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.exe
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.pdb
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.Sword.resources
+D:\job\bgtu\stego\sword\sword\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\job\bgtu\stego\sword\sword\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\job\bgtu\stego\sword\sword\bin\Debug\office.dll
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.Preloader.resources
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.Form1.resources
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.UserControl1.resources
+D:\job\bgtu\stego\sword\sword\bin\Debug\MarkTextField.pdb
+i:\back\stego\sword\sword\obj\Debug\sword.exe
+i:\back\stego\sword\sword\obj\Debug\sword.pdb
+d:\sword\sword_2012.11.08\sword\bin\Debug\sword.exe.config
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.exe
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.pdb
+d:\sword\sword_2012.11.08\sword\bin\Debug\sword.exe
+d:\sword\sword_2012.11.08\sword\bin\Debug\sword.pdb
+d:\sword\sword_2012.11.08\sword\bin\Debug\Microsoft.Office.Interop.Word.dll
+d:\sword\sword_2012.11.08\sword\bin\Debug\office.dll
+d:\sword\sword_2012.11.08\sword\bin\Debug\Microsoft.Vbe.Interop.dll
+d:\sword\sword_2012.11.08\sword\bin\Debug\MarkTextField.pdb
+d:\sword\sword_2012.11.08\sword\bin\Debug\Microsoft.Office.Interop.Word.xml
+d:\sword\sword_2012.11.08\sword\bin\Debug\office.xml
+d:\sword\sword_2012.11.08\sword\obj\Debug\ResolveAssemblyReference.cache
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.Form1.resources
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.Preloader.resources
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.Properties.Resources.resources
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.Sword.resources
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.UserControl1.resources
+d:\sword\sword_2012.11.08\sword\obj\Debug\GenerateResource.read.1.tlog
+d:\sword\sword_2012.11.08\sword\obj\Debug\GenerateResource.write.1.tlog
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\bin\Debug\sword.exe.config
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\bin\Debug\sword.exe
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\bin\Debug\sword.pdb
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\bin\Debug\office.dll
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\bin\Debug\stdole.dll
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\bin\Debug\MarkTextField.pdb
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\bin\Debug\office.xml
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.csproj.AssemblyReference.cache
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.csproj.SuggestedBindingRedirects.cache
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.Form1.resources
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.Preloader.resources
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.Properties.Resources.resources
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.Sword.resources
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.UserControl1.resources
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.csproj.GenerateResource.cache
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.csproj.CoreCompileInputs.cache
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.csproj.CopyComplete
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.exe
+D:\Education\3 курс 2 сем\KMZI\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.pdb

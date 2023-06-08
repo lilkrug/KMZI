@@ -8,17 +8,17 @@ namespace lab9
 {
     class Program
     {
-        public static readonly int z = 10;
+        public static readonly int z = 8;
         public static readonly int a = 31;
-        public static readonly int n = 3360;
-        public static readonly int[] d = { 2, 3, 6, 13, 27, 52, 105, 210, 420, 840, 1680 };
+        public static readonly int n = 420;
+        public static readonly int[] d = { 2, 3, 6, 13, 27, 52, 105, 210 };
         public static string M = "Alexei";
 
         static void Main(string[] args)
         {
             // Генерация сверхвозр. послед
             var r = new Ranec();
-            int[] d2 = r.Generate(10);
+            int[] d2 = r.Generate(8);
             Console.WriteLine($"Закрытый ключ d: {r.Str(d)}");
 
             // Вычисление норм. послед

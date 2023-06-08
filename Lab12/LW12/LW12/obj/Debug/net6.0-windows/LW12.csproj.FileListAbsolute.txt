@@ -1,0 +1,34 @@
+D:\University\Crypto\Labs\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.csproj.AssemblyReference.cache
+D:\University\Crypto\Labs\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.Form1.resources
+D:\University\Crypto\Labs\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.csproj.GenerateResource.cache
+D:\University\Crypto\Labs\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Crypto\Labs\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.AssemblyInfoInputs.cache
+D:\University\Crypto\Labs\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.AssemblyInfo.cs
+D:\University\Crypto\Labs\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.csproj.CoreCompileInputs.cache
+D:\University\Crypto\Labs\LW12\LW12\LW12\bin\Debug\net6.0-windows\LW12.exe
+D:\University\Crypto\Labs\LW12\LW12\LW12\bin\Debug\net6.0-windows\LW12.deps.json
+D:\University\Crypto\Labs\LW12\LW12\LW12\bin\Debug\net6.0-windows\LW12.runtimeconfig.json
+D:\University\Crypto\Labs\LW12\LW12\LW12\bin\Debug\net6.0-windows\LW12.dll
+D:\University\Crypto\Labs\LW12\LW12\LW12\bin\Debug\net6.0-windows\LW12.pdb
+D:\University\Crypto\Labs\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.dll
+D:\University\Crypto\Labs\LW12\LW12\LW12\obj\Debug\net6.0-windows\refint\LW12.dll
+D:\University\Crypto\Labs\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.pdb
+D:\University\Crypto\Labs\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.genruntimeconfig.cache
+D:\University\Crypto\Labs\LW12\LW12\LW12\obj\Debug\net6.0-windows\ref\LW12.dll
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\bin\Debug\net6.0-windows\LW12.exe
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\bin\Debug\net6.0-windows\LW12.deps.json
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\bin\Debug\net6.0-windows\LW12.runtimeconfig.json
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\bin\Debug\net6.0-windows\LW12.dll
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\bin\Debug\net6.0-windows\LW12.pdb
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.csproj.AssemblyReference.cache
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.Form1.resources
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.csproj.GenerateResource.cache
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.AssemblyInfoInputs.cache
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.AssemblyInfo.cs
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.csproj.CoreCompileInputs.cache
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.dll
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\obj\Debug\net6.0-windows\refint\LW12.dll
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.pdb
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\obj\Debug\net6.0-windows\LW12.genruntimeconfig.cache
+D:\Education\3 курс 2 сем\KMZI\LW12\LW12\LW12\obj\Debug\net6.0-windows\ref\LW12.dll
